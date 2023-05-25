@@ -1,36 +1,48 @@
 # Cell segmentation, Classification and Spatial Analysis in Multiplexed Fluorescence Microscopy Image Data.
-## Focus on Microscopy 2023
-## April 2, 2023
-**Trainer**: Anna Klemm, BioImage Informatics Facility, SciLifeLab, Sweden  
+## Lund
+**Trainer**: Anna Klemm, Fredrik Nysjö, BioImage Informatics Facility, SciLifeLab, Sweden  
 **Authors material and data**: Anna Klemm, Fredrik Nysjö, Lina Wik, Arne Östman, Carolina Wählby  
 **License**: [BSD 3-Clause](LICENSE.md)  
 
+The workshop will consist of short introductory lectures and hands-on work on the participant’s own computers. We envision ~20 participants, working on their own or in pairs.
+
 ## Schedule
-*April 2, 10:30 AM - 12:45 PM (2h 15min), Tutorial 1, Infante hall*
+*Tuesday, May 30*
 
-**10.30-10.50**   
-Presentation: Overview of Multiplexed Fluorescence Image Analysis 
+**9:00 - 9:15**  
+* Introduction
 
-**10.50-11.00**  
-Introduction to the material  
+**9:15 - 12:00**
+* creating a project, cell detection, cell classification basics (recap from video)
+* advanced cell classification: procedure and tips to train a cell classifier.   
+* training of pixel classifiers on the example of blood vessels
+* spatial analysis in QuPath on the example distance of cells to blood vessels.
 
-**11.00-11.15**  
-[Demo: Creating a QuPath project, cell detection](multiplexed_celldetection_cellclassification.md)
+lunch
+ 
+**13:00 - 14:30**
+* introduction into QuPath scripting
+* StarDist in QuPath
+* color deconvolution for histopathological stains
 
-**11.15-11.45**  
-[Intro to semi-automated cell classification and data export](multiplexed_celldetection_cellclassification.md#cell-classification)  
+coffee break
 
-**11.45-12.00**  
-Strategies for training cell classifiers 
+**15:00 - 16:00**
+* TissUUmaps, BigDataViewer Playground
+* what else is possible? Presentation on BIIF projects with analysis "more than QuPath"
 
-**12.00-12.15**  
-[Using pixel classification to detect vessels](pixelclassification.md)  
 
-**12.15-12:30**  
-[Spatial analysis in QuPath](pixelclassification.md#spatial-analysis.md)
+*Wednesday, May 31*
+**09:00 - 11:45**
+* flash-talks of participants / forming groups
+* work-on-your-own-data
 
-**12.30-12:45**  
-Final remarks, outlook  
+ 
+**11:45 - 12:00**
+* wrap-up, contact to BIIFimage analysis
+
+
+
 
 Extra material: [Inspecting multiple tissue cores using the BigDataViewer and BigDataViewer Playground in Fiji](bdvPlayground.md)
 
