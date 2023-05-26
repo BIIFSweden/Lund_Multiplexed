@@ -6,6 +6,8 @@
 
 The workshop will consist of short introductory lectures and hands-on work on the participant’s own computers. We envision ~20 participants, working on their own or in pairs.
 
+Preparations: Watch 35-min video for QuPath on a Akoya data set (https://www.youtube.com/watch?v=WTAgXpuuqNY)
+
 ## Schedule
 *Tuesday, May 30*
 
@@ -13,22 +15,23 @@ The workshop will consist of short introductory lectures and hands-on work on th
 * Introduction
 
 **9:15 - 12:00**
-* [creating a project, cell detection, cell classification basics (recap from video)](multiplexed_celldetection_cellclassification.md#qupath-instructions-for-workshop)
-* [advanced cell classification: procedure and tips to train a cell classifier.](multiplexed_celldetection_cellclassification.md#strategies-for-creating-classifiers)   
-* [training of pixel classifiers on the example of blood vessels](pixelclassification.md)
-* [spatial analysis in QuPath on the example distance of cells to blood vessels.](pixelclassification.md#spatial-analysis)
+* creating a project, cell detection, cell classification basics (recap from video) [[instructions]](multiplexed_celldetection_cellclassification.md#qupath-instructions-for-workshop)
+* advanced cell classification: procedure and tips to train a cell classifier [[instructions]](multiplexed_celldetection_cellclassification.md#strategies-for-creating-classifiers)   
+* training of pixel classifiers on the example of blood vessels [[instructions]](pixelclassification.md)
+* spatial analysis in QuPath on the example distance of cells to blood vessels [[instructions]](pixelclassification.md#spatial-analysis)
 
 lunch
  
 **13:00 - 14:30**
 * introduction into QuPath scripting
 * StarDist in QuPath
-* [color deconvolution for histopathological stains](dataset2_brightfield.md)
+* color deconvolution for histopathological stains [[instructions]](dataset2_brightfield.md)
 
 coffee break
 
 **15:00 - 16:00**
-* TissUUmaps, BigDataViewer Playground
+* TissUUmaps
+* BigDataViewer Playground [[instructions]](bdvPlayground.md)
 * what else is possible? Presentation on BIIF projects with analysis "more than QuPath"
 
 
@@ -44,6 +47,6 @@ coffee break
 
 
 
-Extra material: [Inspecting multiple tissue cores using the BigDataViewer and BigDataViewer Playground in Fiji](bdvPlayground.md)
+
 
 
