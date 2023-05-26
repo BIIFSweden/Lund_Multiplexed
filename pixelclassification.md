@@ -69,7 +69,10 @@ We now want to analyse the distance of tumor-associated macrophages (class *TAMM
 
 ### Adding Spatial Features
 * run  `Analyze->Spatial analysis->Distance to annotations 2D`
+* run  `Analyze->Spatial analysis->Detect centroid distances 2D`
 * `Split multi-part classifications : no`
 
 For each cell we now get the distance in µm to the closest vessel annotation. In the measurement table these will be listed in an additional column.
 
+### Visualization of Measurements
+* run  `Measure->Show Measurement Maps`
