@@ -19,6 +19,7 @@ Preparations: Watch 35-min video for QuPath on a Akoya data set (https://www.you
 * advanced cell classification: procedure and tips to train a cell classifier [[instructions]](multiplexed_celldetection_cellclassification.md#strategies-for-creating-classifiers)   
 * training of pixel classifiers on the example of blood vessels [[instructions]](pixelclassification.md)
 * spatial analysis in QuPath on the example distance of cells to blood vessels [[instructions]](pixelclassification.md#spatial-analysis)
+* visualize measurements
 
 lunch
  
