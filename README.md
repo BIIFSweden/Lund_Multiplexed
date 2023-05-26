@@ -13,17 +13,17 @@ The workshop will consist of short introductory lectures and hands-on work on th
 * Introduction
 
 **9:15 - 12:00**
-* creating a project, cell detection, cell classification basics (recap from video)
-* advanced cell classification: procedure and tips to train a cell classifier.   
-* training of pixel classifiers on the example of blood vessels
-* spatial analysis in QuPath on the example distance of cells to blood vessels.
+* [creating a project, cell detection, cell classification basics (recap from video)](multiplexed_celldetection_cellclassification.md#qupath-instructions-for-workshop)
+* [advanced cell classification: procedure and tips to train a cell classifier.](multiplexed_celldetection_cellclassification.md#strategies-for-creating-classifiers)   
+* [training of pixel classifiers on the example of blood vessels](pixelclassification.md)
+* [spatial analysis in QuPath on the example distance of cells to blood vessels.](pixelclassification.md#spatial-analysis)
 
 lunch
  
 **13:00 - 14:30**
 * introduction into QuPath scripting
 * StarDist in QuPath
-* color deconvolution for histopathological stains
+* [color deconvolution for histopathological stains](dataset2_brightfield.md)
 
 coffee break
 
