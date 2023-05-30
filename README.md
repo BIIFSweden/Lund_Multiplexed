@@ -25,7 +25,7 @@ lunch
  
 **13:00 - 14:30**
 * introduction into QuPath scripting
-* StarDist in QuPath
+* StarDist in QuPath [[QuPath extension]](https://github.com/qupath/qupath-extension-stardist)
 * color deconvolution for histopathological stains [[instructions]](dataset2_brightfield.md)
 
 coffee break
