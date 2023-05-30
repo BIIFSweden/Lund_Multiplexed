@@ -31,8 +31,9 @@ lunch
 coffee break
 
 **15:00 - 16:00**
-* TissUUmaps
 * BigDataViewer Playground [[instructions]](bdvPlayground.md)
+* TissUUmaps [link to software](https://tissuumaps.github.io/)
+* KNIME [link to software](https://www.knime.com/)
 * what else is possible? Presentation on BIIF projects with analysis "more than QuPath"
 
 
